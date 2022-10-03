@@ -1,8 +1,10 @@
-Microcopy
+**Microcopy**
+
 Menurut Kinneret Yiffrah, microcopy adalah kata atau frasa di UI yang terkait langsung dengan tindakan yang dilakukan user :
 •	Motivasi sebelum tindakan
 •	Instruksi yang menyertai tindakan
 •	Feedback setelah user mengambil Tindakan
+
 **Peran Microcopy di UX**
 
 Selama bertahun-tahun, trennya adalah membuat interface itu "clean".

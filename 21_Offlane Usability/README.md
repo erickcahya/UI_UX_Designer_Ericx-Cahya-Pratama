@@ -1,6 +1,6 @@
 Link Drive : [https://drive.google.com/drive/folders/1udUR-NllP97k2BvrfrvfwRCQElb6C9Eq?usp=sharing](https://drive.google.com/drive/folders/1udUR-NllP97k2BvrfrvfwRCQElb6C9Eq?usp=sharing)
 
-Link Medium : [https://drive.google.com/drive/folders/1udUR-NllP97k2BvrfrvfwRCQElb6C9Eq?usp=sharing](https://drive.google.com/drive/folders/1udUR-NllP97k2BvrfrvfwRCQElb6C9Eq?usp=sharing)
+Link Medium : [https://medium.com/@erickcp1609/study-case-farmagym-by-farmatech-b734ed8df413]
 
 **Usability Testing**
 
